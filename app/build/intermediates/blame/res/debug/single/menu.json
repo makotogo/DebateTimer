@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/menu/negprep_timer_context_menu.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/menu/negprep_timer_context_menu.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/menu/policy_menu.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/menu/policy_menu.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/menu/speech_timer_context_menu.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/menu/speech_timer_context_menu.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/menu/crossex_timer_context_menu.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/menu/crossex_timer_context_menu.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/menu/affprep_timer_context_menu.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/menu/affprep_timer_context_menu.xml"
+    }
+]

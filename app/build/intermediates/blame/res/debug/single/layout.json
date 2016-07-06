@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/layout/fragment_policy.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/layout/fragment_policy.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/layout/fragment_policy_speech.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/layout/fragment_policy_speech.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/layout/minutes_seconds_picker.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/layout/minutes_seconds_picker.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/layout/activity_speech_pager.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/layout/activity_speech_pager.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/layout/activity_policy.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/layout/activity_policy.xml"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/layout/list_item_speech.xml",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/layout/list_item_speech.xml"
+    }
+]

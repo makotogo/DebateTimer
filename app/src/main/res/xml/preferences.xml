@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="pref_cat_key_speechTimes"
+        android:title="@string/pref_cat_title_speech_times" >
+        <EditTextPreference
+            android:key="pref_key_constructiveSpeechTime"
+            android:title="@string/pref_title_constructive_speech_time"
+            android:defaultValue="@string/default_constructive_speech_time"
+            android:inputType="number"
+            />
+        <EditTextPreference
+            android:key="pref_key_rebuttalTime"
+            android:title="@string/pref_title_rebuttal_time"
+            android:defaultValue="@string/default_rebuttal_time"
+            android:inputType="number"
+            />
+        <EditTextPreference
+            android:key="pref_key_crossexTime"
+            android:title="@string/pref_title_crossex_time"
+            android:defaultValue="@string/default_crossex_time"
+            android:inputType="number"
+            />
+        <EditTextPreference
+            android:key="pref_key_prepTime"
+            android:title="@string/pref_title_prep_time"
+            android:defaultValue="@string/default_prep_time"
+            android:inputType="number"
+            />
+        </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:key="pref_cat_key_alarm"
+        android:title="@string/pref_cat_title_alarm" >
+        <CheckBoxPreference
+            android:key="pref_key_alarm_notifyAtExpiration"
+            android:title="@string/pref_title_alarm_notify_at_expiration"
+            android:defaultValue="false"
+            />
+        <RingtonePreference
+            android:key="pref_key_alarm_expirationSound"
+            android:ringtoneType="notification"
+            android:showDefault="true"
+            android:title="Timer Expiration Sound" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory 
+        android:key="pref_cat_general"
+        android:title="@string/pref_cat_title_general"
+        >
+        
+        <CheckBoxPreference
+            android:key="pref_key_show_tenths_of_seconds"
+            android:title="@string/pref_title_showTenthsOfSeconds"
+            android:defaultValue="false" 
+            />
+        
+        <CheckBoxPreference
+            android:key="pref_key_animateTimerWhenBelowThreshold"
+            android:title="@string/pref_title_animateTimerWhenBelowThreshold"
+            android:defaultValue="true" 
+            />
+        
+        </PreferenceCategory>
+
+</PreferenceScreen>

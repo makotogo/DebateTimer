@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/speech_context_menu_item_reset"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/reset"
+        android:showAsAction="ifRoom|withText"/>
+
+    <!-- 
+    <item
+        android:id="@+id/speech_context_menu_item_exhaust"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/exhaust"/>
+        -->
+
+    <item
+        android:id="@+id/speech_context_menu_item_set"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/set"
+        android:showAsAction="ifRoom|withText"/>
+        />
+
+</menu>

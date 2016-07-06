@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/speechTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_speech_title_text"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:minHeight="80sp"
+        android:textSize="40sp" 
+        />
+    
+    <TextView
+        android:id="@+id/speechTimerLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_speech_timer"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/speechTitle"
+        />
+    <TextView
+        android:id="@+id/speechTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_timer_text"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/speechTimerLabel"
+        android:minHeight="140sp" 
+        android:textSize="100sp" 
+        />
+    
+    <TextView
+        android:id="@+id/crossExTimerLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_crossex_timer"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/speechTimer"
+        />
+    <TextView
+        android:id="@+id/crossExTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_timer_text"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/crossExTimerLabel"
+        android:minHeight="140sp" 
+        android:textSize="100sp" 
+        />
+    
+    <TextView
+        android:id="@+id/affPrepTimerLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_affprep_timer"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/crossExTimer"
+        />
+    <TextView
+        android:id="@+id/affirmativePrepTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_timer_text"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/affPrepTimerLabel"
+        android:minHeight="70sp" 
+        android:textSize="40sp" 
+        />
+    
+    <TextView
+        android:id="@+id/negPrepTimerLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_negprep_timer"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/affirmativePrepTimer"
+        />
+    <TextView
+        android:id="@+id/negativePrepTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_timer_text"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/negPrepTimerLabel"
+        android:minHeight="70sp" 
+        android:textSize="40sp" 
+        />
+    
+</RelativeLayout>

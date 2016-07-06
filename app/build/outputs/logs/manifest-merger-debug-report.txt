@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:2:1-49:12
+	xmlns:android
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+uses-permission#WAKE_LOCK
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:11:5-48
+	android:name
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:11:22-46
+application
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:13:5-47:19
+	android:label
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.makotojava.android.debate.PolicyActivity
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:21:13-58
+	android:name
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:20:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:25:15-66
+	android:name
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:25:23-64
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:26:15-74
+	android:name
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:26:25-72
+activity#com.makotojava.android.debate.SpeechPagerActivity
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:screenOrientation
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:33:11-47
+	android:label
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:32:11-62
+	android:name
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:31:11-75
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:34:11-35:75
+	android:name
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:34:22-68
+	android:value
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:35:13-73
+activity#com.makotojava.android.debate.SettingsActivity
+ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:38:9-46:20
+	android:screenOrientation
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:41:9-45
+	android:label
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:39:9-70
