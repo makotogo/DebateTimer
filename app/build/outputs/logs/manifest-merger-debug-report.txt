@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:2:1-49:12
-	xmlns:android
-		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:2:11-69
 	package
 		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
@@ -15,6 +13,8 @@ ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/A
 		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:4:5-35
 		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
@@ -67,10 +67,10 @@ ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/A
 		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:31:11-75
 meta-data#android.support.PARENT_ACTIVITY
 ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:34:11-35:75
-	android:name
-		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:34:22-68
 	android:value
 		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:34:22-68
 activity#com.makotojava.android.debate.SettingsActivity
 ADDED from /Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/AndroidManifest.xml:38:9-46:20
 	android:screenOrientation

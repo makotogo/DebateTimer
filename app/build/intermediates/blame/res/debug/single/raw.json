@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/raw/legal.txt",
-        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/raw/legal.txt"
-    },
-    {
         "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/raw/info.txt",
         "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/raw/info.txt"
+    },
+    {
+        "merged": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/build/intermediates/res/merged/debug/raw/legal.txt",
+        "source": "/Users/sperry/Dropbox/Stuff/projects/UltimateDebateApp/app/src/main/res/raw/legal.txt"
     }
 ]
